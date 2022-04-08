@@ -5,7 +5,7 @@ Final flashcard app with flipping animation upon pressing the flashcard and slid
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/Pmz4d4Dx8v.gif" width=200><br>
+<img src="http://g.recordit.co/E5V8jMPbb8.gif" width=200><br>
 
 
 ## Required
