@@ -6,9 +6,13 @@ Final flashcard app with flipping animation upon pressing the flashcard and slid
 ### App Walk-though
 full walk-through since content length is exceeded on github: https://recordit.co/Pmz4d4Dx8v
 
-Walk-through for only required steps:
+Walk-through on iphone 11:
 
 <img src="http://g.recordit.co/qgudjAARQW.gif" width=200><br>
+
+How it looks on iPad 12.9 inch:
+
+<img src="http://g.recordit.co/yIiDjhqXWH.gif" width=200><br>
 
 
 ## Required
