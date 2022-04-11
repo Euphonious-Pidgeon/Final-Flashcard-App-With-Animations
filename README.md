@@ -12,7 +12,7 @@ Walk-through on iphone 11:
 
 How it looks on iPad 12.9 inch:
 
-<img src="http://g.recordit.co/yIiDjhqXWH.gif" width=500, height=550><br>
+<img src="http://g.recordit.co/yIiDjhqXWH.gif" width=600, height=550><br>
 
 
 ## Required
